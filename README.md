@@ -38,4 +38,6 @@ The application provides a login page for both admin and employee roles. Admin u
 
 ## Employee Login
 ![Employee Login (1)](https://github.com/user-attachments/assets/1109398d-a719-407a-b524-26de684bae14)
+
+## Employee users have restricted access and cannot view order details only admin can access.
 ![Employee Login (2)](https://github.com/user-attachments/assets/19455843-109c-493f-b671-67d70c37251b)
