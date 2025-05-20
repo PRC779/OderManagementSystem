@@ -1,4 +1,4 @@
-# OderManagementSystem
+# OrderManagementSystem
 The application provides a login page for both admin and employee roles. Admin users have access to view order details, while employee users have restricted access. 
 
 ![Homepage](https://github.com/user-attachments/assets/525504ad-d897-47f1-8e12-a091862a1e53)
