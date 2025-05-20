@@ -1,7 +1,7 @@
 # OrderManagementSystem
 The application provides a login page for both admin and employee roles. Admin users have access to view order details, while employee users have restricted access. 
 
-![Homepage](https://github.com/user-attachments/assets/525504ad-d897-47f1-8e12-a091862a1e53)
+![Homepage](https://github.com/user-attachments/assets/45a645e3-18b4-4709-8d56-16189b89264e)
 
 ## Features
 
@@ -25,8 +25,7 @@ The application provides a login page for both admin and employee roles. Admin u
 3. Admin users will have access to the order details page, while employee users will not.
 
 ## Home Page
-![Homepage](https://github.com/user-attachments/assets/1a2344e8-6de6-4779-bdbf-94c0a13d63bd)
-
+![Homepage](https://github.com/user-attachments/assets/45a645e3-18b4-4709-8d56-16189b89264e)
 ## Admin Login
 ![Admin Login (1)](https://github.com/user-attachments/assets/5da80b0c-3fa8-4a3d-a797-6aefa1746d1a)
 ![Admin Login (2)](https://github.com/user-attachments/assets/bcde3958-3349-41f1-ba7a-5bd5ace1efd9)
