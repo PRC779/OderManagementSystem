@@ -26,6 +26,10 @@ The application provides a login page for both admin and employee roles. Admin u
 
 ## Home Page
 ![Homepage](https://github.com/user-attachments/assets/45a645e3-18b4-4709-8d56-16189b89264e)
+
+## Admin | Employee Login Page
+![ Admin-Employee-Login-Page](https://github.com/user-attachments/assets/87789f7a-4f30-4678-a765-da0e381d5ee4)
+
 ## Admin Login
 ![Admin Login (1)](https://github.com/user-attachments/assets/5da80b0c-3fa8-4a3d-a797-6aefa1746d1a)
 ![Admin Login (2)](https://github.com/user-attachments/assets/bcde3958-3349-41f1-ba7a-5bd5ace1efd9)
