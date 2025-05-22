@@ -12,7 +12,7 @@ The application provides a login page for both admin and employee roles. Admin u
 
 ## Technologies Used
 
-- Spring Boot
+- Spring Boot | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
 - Spring Security
 - Thymeleaf Template Engine
 - Java
